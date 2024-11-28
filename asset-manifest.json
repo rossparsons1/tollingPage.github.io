@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trolling/static/css/main.f855e6bc.css",
+    "main.js": "/trolling/static/js/main.30fc022d.js",
+    "static/js/453.5e560239.chunk.js": "/trolling/static/js/453.5e560239.chunk.js",
+    "index.html": "/trolling/index.html",
+    "main.f855e6bc.css.map": "/trolling/static/css/main.f855e6bc.css.map",
+    "main.30fc022d.js.map": "/trolling/static/js/main.30fc022d.js.map",
+    "453.5e560239.chunk.js.map": "/trolling/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.30fc022d.js"
+  ]
+}
